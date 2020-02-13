@@ -1,6 +1,6 @@
 # Community Analysis Extension
 
-## Greasy Fork: https://greasyfork.org/en/scripts/14666-easy-analysis-extension
+## Greasy Fork: https://greasyfork.org/en/scripts/396401-community-analysis-extension
 
 - Install Script Extension for your Web Browser
   - **For IE**, download IEExtension.zip in <a href="../exe/IEExtension.zip" rel="nofollow">here</a>, unzip the file, run “run-install.cmd” as Administrator</li>
@@ -10,7 +10,7 @@
         - For Chrome: Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
         - For Opera: Install [Violentmonkey](https://github.com/OpenUserJS/OpenUserJS.org/wiki/Violentmonkey-for-Opera)
         - For Safari: Install [NinjaKit](https://web.archive.org/web/20161002045855/http://ss-o.net/safari/extension/NinjaKit.safariextz)
-    2. Open [Greasy Fork link](https://greasyfork.org/en/scripts/14666-easy-analysis-extension), Click "Install this script" button on the page, follow the guidance to complete the installation in the Scipt Extension
+    2. Open [Greasy Fork link](https://greasyfork.org/en/scripts/396401-community-analysis-extension), Click "Install this script" button on the page, follow the guidance to complete the installation in the Scipt Extension
 
 - Open a thread in supported forum, you will see the iframe window
 
